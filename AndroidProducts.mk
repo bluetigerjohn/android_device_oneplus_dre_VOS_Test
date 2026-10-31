@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_dre.mk
+    $(LOCAL_DIR)/voltage_dre.mk
